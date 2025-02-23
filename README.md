@@ -1,6 +1,6 @@
 ##  Hi, I'm Elif
 
-🔐 **Cybersecurity Enthusiast | Full-Time Mom** ❤️   
+🔐 **Cybersecurity Enthusiast | Mom** 👶🏻   
   
 🎯 My mission is more secure digital world.      
 💻 Currently enhancing my skills in network security, Linux administration, and cybersecurity tools.    
