@@ -1,6 +1,6 @@
-##  Hi, I'm Elif
+##  Hello! Nice to meet you 👋
 
-**Cybersecurity Enthusiast | Full-Time Mom** 👶🏻💜
+I'm an explorer in the world of cybersecurity | Full-Time Mom 👶❤
 
 🎯 My mission is more secure digital world.      
 🔍 I focus on network security, vulnerabilities and open-source security tools.    
