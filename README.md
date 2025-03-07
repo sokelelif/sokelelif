@@ -1,6 +1,6 @@
 ##  Hello! Nice to meet you 👋
 
-I'm an explorer in the world of cybersecurity | Full-Time Mom 👶❤
+I'm an explorer in the world of cybersecurity | Full-Time mom 👶❤
 
 🎯 My mission is more secure digital world.      
 🔍 I focus on network security, vulnerabilities and open-source security tools.    
